@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/mlesniak/port-scanner.svg?branch=master)](https://travis-ci.org/mlesniak/port-scanner)
 [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-orange.svg?style=flat)](CODE_OF_CONDUCT.md)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsweetca%2Fport-scanner.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsweetca%2Fport-scanner?ref=badge_shield)
 
 # Overview
 
@@ -89,3 +90,6 @@ A Trello Board can be found [here](https://trello.com/b/opzPa3fd/port-scanner).
 ## License
 
 The source code is licensed under the [Apache license](https://raw.githubusercontent.com/mlesniak/port-scanner/master/LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsweetca%2Fport-scanner.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsweetca%2Fport-scanner?ref=badge_large)
